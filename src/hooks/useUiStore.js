@@ -20,7 +20,8 @@ export const useUiStore = () => {
     return {
         //*Properties
         isDateModalOpen,
-        //* Methods
+
+        //* Functions
         openDateModal,
         closeDateModal,
     }
